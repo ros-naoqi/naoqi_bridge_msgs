@@ -37,5 +37,5 @@ generate_messages(
 )
 
 catkin_package(
-  CATKIN_DEPENDS genmsg message_generation ${MESSAGE_DEPS}
+  CATKIN_DEPENDS genmsg message_runtime ${MESSAGE_DEPS}
 )
