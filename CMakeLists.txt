@@ -2,8 +2,13 @@ cmake_minimum_required(VERSION 2.8.3)
 project(naoqi_bridge_msgs)
 
 set(MESSAGE_DEPS
-	std_msgs
-	geometry_msgs)
+  actionlib_msgs
+  sensor_msgs
+  nav_msgs
+  trajectory_msgs
+  std_msgs
+  geometry_msgs)
+
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
@@ -28,6 +33,16 @@ FILE(GLOB SRV_FILES RELATIVE "${CMAKE_CURRENT_SOURCE_DIR}/srv"
 add_service_files(
   FILES
   ${SRV_FILES}
+)
+
+# Find all the action files
+FILE(GLOB ACTION_FILES RELATIVE "${CMAKE_CURRENT_SOURCE_DIR}/action"
+      "${CMAKE_CURRENT_SOURCE_DIR}/action/*.action")
+
+## Generate messages in the 'action' folder
+add_action_files(
+  FILES
+  ${ACTION_FILES}
 )
 
 ## Generate added messages and services with any dependencies listed here
