@@ -2,6 +2,15 @@
 Changelog for package naoqi_bridge_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* remove legacy msgs
+* replace tag in package.xml
+* fix double message_runtine dependency
+* msg transfer
+* fix message_generation vs runtime
+* Contributors: Karsten Knese, Vincent Rabaud
+
 0.0.2 (2015-06-10)
 ------------------
 * add confidence
