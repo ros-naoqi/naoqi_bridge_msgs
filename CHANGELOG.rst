@@ -2,8 +2,8 @@
 Changelog for package naoqi_bridge_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2015-07-30)
+------------------
 * remove legacy msgs
 * replace tag in package.xml
 * fix double message_runtine dependency
