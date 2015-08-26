@@ -2,6 +2,15 @@
 Changelog for package naoqi_bridge_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#2 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/2>`_ from vrabaud/master
+  add a message concerning the robot information
+* add a service to get robot info
+* add a message concerning the robot information
+* update package.xml with description and author
+* Contributors: Karsten Knese, Vincent Rabaud
+
 0.0.3 (2015-07-30)
 ------------------
 * remove legacy msgs
