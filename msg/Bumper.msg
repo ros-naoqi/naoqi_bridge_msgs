@@ -5,6 +5,7 @@ uint8 state             # state of the bumper (pressed or released)
 
 uint8 right=0
 uint8 left=1
+uint8 back=2
 
 uint8 stateReleased=0
 uint8 statePressed=1
