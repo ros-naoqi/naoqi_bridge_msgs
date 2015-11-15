@@ -2,6 +2,14 @@
 Changelog for package naoqi_bridge_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* add orthogonal / tangential security distance service files
+* change constants with capital letters
+* increase touched hand directions and move it in msg folder correctly
+* add back bumper value for Pepper
+* Contributors: Kanae Kochigami, Vincent Rabaud
+
 0.0.4 (2015-08-26)
 ------------------
 * Merge pull request `#2 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/2>`_ from vrabaud/master
