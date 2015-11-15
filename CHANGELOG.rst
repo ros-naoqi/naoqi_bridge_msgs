@@ -2,8 +2,8 @@
 Changelog for package naoqi_bridge_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.5 (2015-11-15)
+------------------
 * add orthogonal / tangential security distance service files
 * change constants with capital letters
 * increase touched hand directions and move it in msg folder correctly
