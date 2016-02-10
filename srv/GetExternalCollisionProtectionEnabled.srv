@@ -1,0 +1,3 @@
+# Get information about External Collision Protection Enabled
+std_msgs/String name
+---
