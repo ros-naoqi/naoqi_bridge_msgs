@@ -1,6 +1,6 @@
 # A message for setExternalCollisionProtectionEnabled in External-Collision avoidance API
 
-uint8 number
+uint8 data
 
 uint8 ALL=0
 uint8 MOVE=1
