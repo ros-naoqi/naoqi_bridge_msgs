@@ -2,3 +2,4 @@
 naoqi_bridge_msgs/ExternalCollisionProtectionNames name
 bool status
 ---
+bool status
