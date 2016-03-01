@@ -1,6 +1,7 @@
-#ShowImage : name is file name
-#ShowApp : name is app name
-#ShowWebview : name is url
+# Service for showing resources on Pepper's tablet
+# If you show image, name is file name
+# If you show app, name is app name
+# If you show Webview, name is url
 std_msgs/String name
 ---
 std_msgs/Bool success
