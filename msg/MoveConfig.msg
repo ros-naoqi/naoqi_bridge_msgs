@@ -1,0 +1,7 @@
+float32 max_vel_xy
+float32 max_vel_theta
+float32 max_acc_xy
+float32 max_acc_theta
+float32 max_jerk_xy
+float32 max_jerk_theta
+float32 torso_wy
