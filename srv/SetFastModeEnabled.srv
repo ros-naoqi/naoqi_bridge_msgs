@@ -1,0 +1,5 @@
+# Set Status of Module Use of Fast Mode for ALPeoplePerception
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alpeopleperception-api.html#alpeopleperception-api
+bool enable
+---
+bool success
