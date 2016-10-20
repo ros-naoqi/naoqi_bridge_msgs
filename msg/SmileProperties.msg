@@ -1,0 +1,2 @@
+float64 smile_degree
+float64 confidence

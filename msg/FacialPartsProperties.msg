@@ -1,0 +1,47 @@
+float64 left_eye_center_point_x
+float64 left_eye_center_point_y
+float64 left_eye_center_confidence
+
+float64 right_eye_center_point_x
+float64 right_eye_center_point_y
+float64 right_eye_center_confidence
+
+float64 mouth_center_point_x
+float64 mouth_center_point_y
+float64 mouth_center_confidence
+
+float64 left_eye_inner_limit_x
+float64 left_eye_inner_limit_y
+float64 left_eye_inner_limit_confidence
+
+float64 left_eye_outer_limit_x
+float64 left_eye_outer_limit_y
+float64 left_eye_outer_limit_confidence
+
+float64 right_eye_inner_limit_x
+float64 right_eye_inner_limit_y
+float64 right_eye_inner_limit_confidence
+
+float64 right_eye_outer_limit_x
+float64 right_eye_outer_limit_y
+float64 right_eye_outer_limit_confidence
+
+float64 mouth_left_limit_x
+float64 mouth_left_limit_y
+float64 mouth_left_limit_confidence
+
+float64 mouth_right_limit_x
+float64 mouth_right_limit_y
+float64 mouth_right_limit_confidence
+
+float64 nose_left_limit_x
+float64 nose_left_limit_y
+float64 nose_left_limit_confidence
+
+float64 nose_right_limit_x
+float64 nose_right_limit_y
+float64 nose_right_limit_confidence
+
+float64 mouth_upper_limit_x
+float64 mouth_upper_limit_y
+float64 mouth_upper_limit_confidence

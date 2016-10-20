@@ -1,0 +1,5 @@
+# Set the Current Smiling Threshold Value for FaceCharacteristics/PersonSmiling()
+# Please refere to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alfacecharacteristics-api.html#alfacecharacteristics-api
+float64 threshold
+---
+bool success

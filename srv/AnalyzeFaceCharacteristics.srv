@@ -1,0 +1,5 @@
+# Analyze Face Characteristics Using the ID
+# Please refere to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alfacecharacteristics-api.html#alfacecharacteristics-api
+int64 people_id
+---
+bool success
