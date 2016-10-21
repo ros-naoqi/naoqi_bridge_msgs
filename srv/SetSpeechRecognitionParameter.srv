@@ -1,0 +1,7 @@
+# Sets a parameter of the speech recognition engine
+# please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alspeechrecognition-api.html#alspeechrecognition-api
+string parameter
+# Sensitivity, NbHypothesis are available
+float64 value
+---
+bool success

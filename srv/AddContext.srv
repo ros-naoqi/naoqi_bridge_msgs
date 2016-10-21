@@ -1,0 +1,6 @@
+# Adds the context contained in the LCF file
+# please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alspeechrecognition-api.html#alspeechrecognition-api
+string pathToOutputLCFFile
+string contextName
+---
+bool success

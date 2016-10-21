@@ -1,0 +1,5 @@
+# Enables or disables the leds animations on the speech recognition engine
+# please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alspeechrecognition-api.html#alspeechrecognition-api
+bool setOrNot
+---
+bool success

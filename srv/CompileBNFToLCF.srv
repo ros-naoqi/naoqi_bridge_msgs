@@ -1,0 +1,7 @@
+# Converts a BNF file to a LCF file
+# please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alspeechrecognition-api.html#alspeechrecognition-api
+string pathToInputBNFFile 
+string pathToOutputLCFFile
+string language
+---
+bool success

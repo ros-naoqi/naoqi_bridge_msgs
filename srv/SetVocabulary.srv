@@ -1,0 +1,6 @@
+# Sets the list of words/phrases (vocabulary) that should be recognized by the speech recognition engine
+# please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alspeechrecognition-api.html#alspeechrecognition-api
+string[] vocabulary
+bool enableWordSpotting
+---
+bool success

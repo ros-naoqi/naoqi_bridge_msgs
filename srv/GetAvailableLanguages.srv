@@ -1,0 +1,4 @@
+# Returns the list of the languages currently installed on the system
+# please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alspeechrecognition-api.html#alspeechrecognition-api
+---
+string[] languages
