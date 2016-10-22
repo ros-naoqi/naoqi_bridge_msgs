@@ -1,0 +1,4 @@
+# Gets the value of the Tolerance for gaze analysis
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/algazeanalysis-api.html#algazeanalysis-api
+---
+float64 tolerance

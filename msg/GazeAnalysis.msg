@@ -1,0 +1,9 @@
+Header header
+uint64 people_id
+float64 left_eye_opening_degree
+float64 right_eye_opening_degree
+float64 gaze_direction_yaw
+float64 gaze_direction_pitch
+geometry_msgs/Vector3 head_angles
+bool is_looking_at_robot
+float64 looking_at_robot_score
