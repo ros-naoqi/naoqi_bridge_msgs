@@ -1,0 +1,4 @@
+# Returns the current value of SecondDistance (in meters)
+# http://doc.aldebaran.com/2-4/naoqi/peopleperception/alengagementzones-api.html#alengagementzones-api
+---
+float64 distance

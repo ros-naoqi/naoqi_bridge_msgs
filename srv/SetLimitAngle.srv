@@ -1,0 +1,5 @@
+# Sets the current value of LimitAngle (in degrees)
+# http://doc.aldebaran.com/2-4/naoqi/peopleperception/alengagementzones-api.html#alengagementzones-api
+float64 angle
+---
+bool success

@@ -1,0 +1,4 @@
+# Returns the current value of FirstAngle (in degrees)
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alengagementzones-api.html#alengagementzones-api
+---
+float64 angle

@@ -1,0 +1,2 @@
+float32 real_width
+float32 real_height

@@ -1,0 +1,10 @@
+Header header
+naoqi_bridge_msgs/PositionOfCog position_of_cog
+naoqi_bridge_msgs/AngularRoi angular_roi
+naoqi_bridge_msgs/ProportionMovingPixels proportion_moving_pixels
+float32 mean_distance
+naoqi_bridge_msgs/RealSizeRoi real_size_roi
+naoqi_bridge_msgs/PositionOfAssociatedPoint position_of_associated_point
+geometry_msgs/Twist camera_pose_in_torso_frame
+geometry_msgs/Twist camera_pose_in_robot_frame
+uint8 camera_id
