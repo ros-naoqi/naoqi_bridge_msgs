@@ -1,0 +1,5 @@
+# Set a move config to be used when the Move mode is activated.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+naoqi_bridge_msgs/MoveConfig move_config
+---
+bool success

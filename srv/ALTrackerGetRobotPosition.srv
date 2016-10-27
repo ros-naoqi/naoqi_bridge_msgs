@@ -1,0 +1,4 @@
+# Get the [x, y, z, wx, wy, wz] position of the robot in coordinate system set with ALTrackerProxy::setTargetCoordinates. (Only Available with LandMarks target name.)
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+---
+geometry_msgs/Twist robot_position

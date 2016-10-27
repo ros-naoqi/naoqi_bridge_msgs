@@ -1,0 +1,4 @@
+# Get the current target lost timeout value.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+---
+float64 timeout # milliseconds

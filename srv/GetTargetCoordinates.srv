@@ -1,0 +1,5 @@
+# Get objects coordinates set with ALTrackerProxy::setTargetCoordinates. Only work with LandMarks target name.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+---
+geometry_msgs/Point first_object_coordinate
+geometry_msgs/Point second_object_coordinate

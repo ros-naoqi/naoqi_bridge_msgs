@@ -1,0 +1,8 @@
+# Point at the target position with arms in desired frame.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+naoqi_bridge_msgs/Arms arm
+geometry_msgs/Point position
+naoqi_bridge_msgs/Frames frame
+float64 fraction_max_speed
+---
+bool success

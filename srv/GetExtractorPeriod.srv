@@ -1,0 +1,5 @@
+# Get the current period of the extractor corresponding to the given target name.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+string target_name
+---
+float64 extractor_period # milliseconds

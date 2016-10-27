@@ -1,0 +1,5 @@
+# Register the predefined target with parameters 
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+int64[] people_id
+---
+bool success

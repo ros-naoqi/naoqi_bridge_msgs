@@ -1,0 +1,5 @@
+# Unregister a predefined target and unsubscribe from corresponding extractor.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+string target_name
+---
+bool success
