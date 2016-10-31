@@ -1,0 +1,4 @@
+# Removes all learned faces from the database.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alfacedetection-api.html#alfacedetection-api
+---
+bool success
