@@ -2,6 +2,16 @@
 Changelog for package naoqi_bridge_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#29 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/29>`_ from kochigami/rename-tactile-touch
+  [msg] rename TactileTouch to HeadTouch
+* [msg] rename TactileTouch to HeadTouch
+* Merge pull request `#21 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/21>`_ from kochigami/add-msg-and-srv-for-naoqi-sound-localization
+  add srv and msg for naoqi_apps/launch/soundLocalization.launch
+* add srv and msg for naoqi_apps/launch/soundLocalization.launch
+* Contributors: Kanae Kochigami, Karsten Knese, Natalia Lyubova
+
 0.0.5 (2015-11-15)
 ------------------
 * add orthogonal / tangential security distance service files
