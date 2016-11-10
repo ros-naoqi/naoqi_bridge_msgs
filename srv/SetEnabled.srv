@@ -1,0 +1,4 @@
+# enables or disables the status
+bool enabled
+---
+bool success
