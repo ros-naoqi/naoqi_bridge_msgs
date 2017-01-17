@@ -1,0 +1,5 @@
+# Set Range of Maximum Detection Range for ALPeoplePerception
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alpeopleperception-api.html#alpeopleperception-api
+float64 ranges
+---
+bool success

@@ -1,0 +1,4 @@
+# Get Time Before Visible Person Disappears from the VisiblePeopleList for ALPeoplePerception
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alpeopleperception-api.html#alpeopleperception-api
+---
+float64 time_before_visible_person_disappears

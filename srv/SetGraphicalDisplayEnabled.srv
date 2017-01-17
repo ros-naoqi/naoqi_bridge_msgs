@@ -1,0 +1,5 @@
+# Set Status of Pushing Data to ALMemory for graphical display in choregraphe (ALPeoplePerception)
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alpeopleperception-api.html#alpeopleperception-api
+bool enable
+---
+bool success
