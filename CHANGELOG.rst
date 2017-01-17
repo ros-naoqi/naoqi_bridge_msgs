@@ -2,6 +2,12 @@
 Changelog for package naoqi_bridge_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* change maintainership
+* cleanup package.xml
+* Contributors: Karsten Knese
+
 0.0.6 (2016-11-08)
 ------------------
 * Merge pull request `#29 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/29>`_ from kochigami/rename-tactile-touch
