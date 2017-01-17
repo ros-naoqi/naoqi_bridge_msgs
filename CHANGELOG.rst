@@ -2,8 +2,8 @@
 Changelog for package naoqi_bridge_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.7 (2017-01-17)
+------------------
 * change maintainership
 * cleanup package.xml
 * Contributors: Karsten Knese
