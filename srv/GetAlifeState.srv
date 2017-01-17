@@ -1,0 +1,3 @@
+# Get Status of AutonomousLife
+---
+std_msgs/String status
