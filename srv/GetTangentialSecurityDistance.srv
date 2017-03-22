@@ -1,0 +1,5 @@
+# Service for getting the tangential security distance
+
+# Empty response
+---
+float32 tangential_distance
