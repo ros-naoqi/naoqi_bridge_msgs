@@ -1,0 +1,3 @@
+naoqi_bridge_msgs/Arms arm
+---
+bool status
