@@ -1,0 +1,4 @@
+# Get information about External Collision Protection Enabled
+naoqi_bridge_msgs/ExternalCollisionProtectionNames name
+---
+bool status
