@@ -1,0 +1,5 @@
+string name
+naoqi_bridge_msgs/ColorName color_name
+float32 duration_to_fade
+---
+bool success
