@@ -1,4 +1,3 @@
-Header header
 int64 people_id
 float64 distance
 float64 yaw
@@ -15,4 +14,4 @@ int64 not_seen_since
 int64 present_since
 float64 real_height
 string shirt_color
-geometry_msgs/Vector3 hsv 
+geometry_msgs/Vector3 hsv  
