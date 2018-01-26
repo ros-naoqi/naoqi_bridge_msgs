@@ -1,9 +1,8 @@
-float64 eye_opening_degree_left
-float64 eye_opening_degree_right
-float64 gaze_direction_yaw
-float64 gaze_direction_pitch
-float64 head_angles_yaw
-float64 head_angles_pitch
-float64 head_angles_roll
+# [left, right]
+float64[] eye_opening_degree
+# [yaw, pitch]
+float64[] gaze_direction
+# [yaw, pitch, roll]
+float64[] head_angles
 bool is_looking_at_robot
 float64 looking_at_robot_score
