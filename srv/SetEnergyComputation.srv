@@ -1,5 +1,0 @@
-# Set EnergyComputation parameter for ALSoundLocalization
-# Please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alsoundlocalization-api.html#alsoundlocalization-api 
-bool status
----
-bool success
