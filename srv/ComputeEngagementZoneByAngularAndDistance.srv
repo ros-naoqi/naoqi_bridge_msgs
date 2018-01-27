@@ -1,5 +1,5 @@
-# Returns the corresponding engagement zone based on the angular coordinate
-# Please refre to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alengagementzones-api.html#alengagementzones-api
+# Returns the corresponding engagement zone based on the angular and distance coordinate
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alengagementzones-api.html#alengagementzones-api
 float64 x_angle
 float64 y_angle
 float64 distance
