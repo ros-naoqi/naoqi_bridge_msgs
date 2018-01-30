@@ -1,4 +1,0 @@
-# Set Sensitivity parameter for ALSoundLocalization                                                                  # Please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alsoundlocalization-api.html#alsoundlocalization-api            
-float64 sensitivity # 0.0 - 1.0
----
-bool success
