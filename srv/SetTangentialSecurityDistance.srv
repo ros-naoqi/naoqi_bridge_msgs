@@ -1,5 +1,0 @@
-# Service for setting the tangential security distance
-
-float32 tangential_distance
----
-bool success

@@ -1,5 +1,0 @@
-# Service for setting the orthogonal security distance
-
-float32 orthogonal_distance
----
-bool success
