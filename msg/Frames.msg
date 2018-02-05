@@ -1,5 +1,3 @@
-# A message for getChainClosestObstaclePosition in External-Collision avoidance API 
-
 uint8 data
 
 uint8 FRAME_TORSO=0
