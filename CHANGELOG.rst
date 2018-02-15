@@ -2,6 +2,17 @@
 Changelog for package naoqi_bridge_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* delete msg because it can be replaced by std_srvs/SetBool.srv (`#36 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/36>`_)
+* delete srv file because it can be replaced by `#37 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/37>`_ (`#39 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/39>`_)
+* add get/set string srv files (`#38 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/38>`_)
+* Merge pull request `#37 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/37>`_ from kochigami/add-get-set-float-srv
+  add get/ set float service
+* add get/ set float service
+* cleanup package.xml
+* Contributors: Kanae Kochigami, Karsten Knese, Natalia Lyubova
+
 0.0.6 (2016-11-08)
 ------------------
 * Merge pull request `#29 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/29>`_ from kochigami/rename-tactile-touch
