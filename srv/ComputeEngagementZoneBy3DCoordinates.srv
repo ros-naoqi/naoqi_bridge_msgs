@@ -1,0 +1,5 @@
+# Returns the corresponding engagement zone based on the 3D coordinate
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alengagementzones-api.html#alengagementzones-api
+geometry_msgs/Point coordinate
+---
+uint8 engagement_zone 

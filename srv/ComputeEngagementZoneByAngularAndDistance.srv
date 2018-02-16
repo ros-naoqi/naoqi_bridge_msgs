@@ -1,0 +1,8 @@
+# Returns the corresponding engagement zone based on the angular and distance coordinate
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alengagementzones-api.html#alengagementzones-api
+float64 x_angle
+float64 y_angle
+float64 distance
+geometry_msgs/Twist camera_position_from_robot_frame
+---
+uint8 engagement_zone 
