@@ -1,0 +1,4 @@
+# Get the robot position relative to target in Move mode.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+---
+geometry_msgs/Twist target_position

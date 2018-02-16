@@ -1,0 +1,5 @@
+# Set the maximum absolute acceleration for head.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+float64 max_acceleration
+---
+bool success

@@ -1,0 +1,5 @@
+# Enables/disables the target search process.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+bool search_on
+---
+bool success

@@ -1,0 +1,4 @@
+# Get active target name set with ALTrackerProxy::track
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+---
+string active_target

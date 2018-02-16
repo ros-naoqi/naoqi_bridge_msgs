@@ -1,0 +1,5 @@
+# Set the tracker in the predefined mode. 
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+string mode
+---
+bool success

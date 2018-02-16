@@ -1,0 +1,5 @@
+# Set search process fraction max speed.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+float64 fraction_max_speed
+---
+bool success

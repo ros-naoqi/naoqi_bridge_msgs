@@ -1,0 +1,8 @@
+# Look at the target position with head in desired frame.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/trackers/altracker-api.html#altracker-api
+geometry_msgs/Point position
+naoqi_bridge_msgs/Frames frame
+float64 fraction_max_speed
+bool use_whole_body
+---
+bool success
