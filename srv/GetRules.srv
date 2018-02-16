@@ -1,0 +1,7 @@
+# Gets rules corresponding to the specified type
+# please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alspeechrecognition-api.html#alspeechrecognition-api
+string contextName 
+string typeName
+# type: "start" "active" "activatable" "slot"
+---
+string[] rules

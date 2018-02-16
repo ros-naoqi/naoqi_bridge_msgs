@@ -1,0 +1,5 @@
+# Removes one context from the speech recognition engine
+# please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alspeechrecognition-api.html#alspeechrecognition-api
+string contextName
+---
+bool success

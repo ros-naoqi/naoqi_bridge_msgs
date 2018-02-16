@@ -1,0 +1,6 @@
+# Gets a parameter of the speech recognition engine
+# please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alspeechrecognition-api.html#alspeechrecognition-api
+string parameter
+# Sensitivity is available
+---
+float64 value

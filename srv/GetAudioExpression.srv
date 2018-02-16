@@ -1,0 +1,4 @@
+# Gets value of the parameter AudioExpression
+# please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alspeechrecognition-api.html#alspeechrecognition-api
+---
+bool setOrNot

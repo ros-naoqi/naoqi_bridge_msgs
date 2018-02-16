@@ -1,0 +1,5 @@
+# Stops and restarts the speech recognition engine according to the input parameter
+# please refer to http://doc.aldebaran.com/2-4/naoqi/audio/alspeechrecognition-api.html#alspeechrecognition-api
+bool isPaused
+---
+bool success
