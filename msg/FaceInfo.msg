@@ -1,0 +1,2 @@
+naoqi_bridge_msgs/FaceDetectionShapeInfo shape_info
+naoqi_bridge_msgs/FaceDetectionExtraInfo extra_info

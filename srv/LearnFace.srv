@@ -1,0 +1,5 @@
+# Learns a new face and add it in the database under the specified name.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alfacedetection-api.html#alfacedetection-api
+string name
+---
+bool success

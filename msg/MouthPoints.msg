@@ -1,0 +1,6 @@
+float64 left_limit_x
+float64 left_limit_y
+float64 right_limit_x
+float64 right_limit_y
+float64 top_limit_x
+float64 top_limit_y

@@ -1,0 +1,6 @@
+float64 eye_center_x
+float64 eye_center_y
+float64 nose_side_limit_x
+float64 nose_side_limit_y
+float64 ear_side_limit_x
+float64 ear_side_limit_y

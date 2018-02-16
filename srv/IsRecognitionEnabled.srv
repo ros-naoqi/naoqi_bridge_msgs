@@ -1,0 +1,4 @@
+# Returns whether recognition is enabled. Recognition is enabled by default.
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alfacedetection-api.html#alfacedetection-api
+---
+bool status

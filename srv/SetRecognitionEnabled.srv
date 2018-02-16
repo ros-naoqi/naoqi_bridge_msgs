@@ -1,0 +1,5 @@
+# Enables/disables the face recognition process. 
+# Please refer to http://doc.aldebaran.com/2-4/naoqi/peopleperception/alfacedetection-api.html#alfacedetection-api
+bool enable
+---
+bool success

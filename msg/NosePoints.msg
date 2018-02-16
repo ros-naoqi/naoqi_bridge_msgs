@@ -1,0 +1,6 @@
+float64 bottom_center_limit_x
+float64 bottom_center_limit_y
+float64 bottom_left_limit_x
+float64 bottom_left_limit_y
+float64 bottom_right_limit_x
+float64 bottom_right_limit_y

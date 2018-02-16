@@ -1,0 +1,7 @@
+int64 face_id
+float64 recognition_score
+string face_label
+naoqi_bridge_msgs/EyePoints left_eye
+naoqi_bridge_msgs/EyePoints right_eye
+naoqi_bridge_msgs/NosePoints nose
+naoqi_bridge_msgs/MouthPoints mouth

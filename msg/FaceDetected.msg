@@ -1,0 +1,6 @@
+Header header
+naoqi_bridge_msgs/FaceInfo face_info
+naoqi_bridge_msgs/TimeFilteredRecoInfo time_filtered_reco_info
+geometry_msgs/Twist camera_pose_in_torso_frame
+geometry_msgs/Twist camera_pose_in_robot_frame
+uint8 camera_id
