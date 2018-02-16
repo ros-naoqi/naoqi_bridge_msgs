@@ -1,0 +1,3 @@
+std_msgs/String picture_name
+---
+std_msgs/Bool status
