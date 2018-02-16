@@ -1,0 +1,3 @@
+naoqi_bridge_msgs/MoveConfigNames move_config_name
+---
+naoqi_bridge_msgs/MoveConfig move_config
