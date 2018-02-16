@@ -1,0 +1,5 @@
+string security
+string ssid
+string key
+---
+bool success
