@@ -1,0 +1,3 @@
+Header header
+naoqi_bridge_msgs/Chains chain
+geometry_msgs/Vector3 obstacle_position

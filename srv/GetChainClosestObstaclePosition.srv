@@ -1,0 +1,5 @@
+# Get information about Chain Closest Obstacle Position
+naoqi_bridge_msgs/Arms arm
+naoqi_bridge_msgs/Frames frame
+---
+geometry_msgs/Vector3 obstacle_position
