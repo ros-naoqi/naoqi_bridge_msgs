@@ -1,0 +1,35 @@
+geometry_msgs/Pose2D left_eye_center_point
+float64 left_eye_center_confidence
+
+geometry_msgs/Pose2D right_eye_center_point
+float64 right_eye_center_confidence
+
+geometry_msgs/Pose2D mouth_center_point
+float64 mouth_center_confidence
+
+geometry_msgs/Pose2D left_eye_inner_limit
+float64 left_eye_inner_limit_confidence
+
+geometry_msgs/Pose2D left_eye_outer_limit
+float64 left_eye_outer_limit_confidence
+
+geometry_msgs/Pose2D right_eye_inner_limit
+float64 right_eye_inner_limit_confidence
+
+geometry_msgs/Pose2D right_eye_outer_limit
+float64 right_eye_outer_limit_confidence
+
+geometry_msgs/Pose2D mouth_left_limit
+float64 mouth_left_limit_confidence
+
+geometry_msgs/Pose2D mouth_right_limit
+float64 mouth_right_limit_confidence
+
+geometry_msgs/Pose2D nose_left_limit
+float64 nose_left_limit_confidence
+
+geometry_msgs/Pose2D nose_right_limit
+float64 nose_right_limit_confidence
+
+geometry_msgs/Pose2D mouth_upper_limit
+float64 mouth_upper_limit_confidence

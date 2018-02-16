@@ -1,0 +1,17 @@
+int64 people_id
+float64 distance
+float64 yaw
+float64 pitch
+int64 camera_id
+geometry_msgs/Twist camera_pose_in_torso_frame
+geometry_msgs/Twist camera_pose_in_robot_frame
+geometry_msgs/Point head_position_in_torso_frame
+geometry_msgs/Point head_position_in_robot_frame
+geometry_msgs/Point head_position_in_world_frame
+bool is_face_detected
+bool is_visible
+int64 not_seen_since
+int64 present_since
+float64 real_height
+string shirt_color
+geometry_msgs/Vector3 hsv  

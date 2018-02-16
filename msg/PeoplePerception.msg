@@ -1,0 +1,5 @@
+Header header
+naoqi_bridge_msgs/PeopleDetected people_detected
+naoqi_bridge_msgs/FaceCharacteristics face_characteristics
+naoqi_bridge_msgs/GazeAnalysis gaze_analysis
+uint8 engagement_zone_of_person

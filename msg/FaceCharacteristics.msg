@@ -1,0 +1,7 @@
+Header header
+int64 people_id
+naoqi_bridge_msgs/AgeProperties person_age 
+naoqi_bridge_msgs/ExpressionProperties person_expression
+naoqi_bridge_msgs/FacialPartsProperties person_facial_parts        
+naoqi_bridge_msgs/GenderProperties person_gender
+naoqi_bridge_msgs/SmileProperties person_smile
